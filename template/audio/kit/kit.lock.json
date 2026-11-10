@@ -1,0 +1,317 @@
+{
+ "kit": 1,
+ "earshot": "0.4.0",
+ "bank": "forge_v2r6+forge04r1+fit1+pluck1",
+ "sr": 48000,
+ "name": "smg-laptop",
+ "roles": {
+  "tick.crisp": {
+   "sound": "pro_click/tink",
+   "align": "onset",
+   "level_db": -10.0,
+   "max_s": null,
+   "takes": [
+    {
+     "file": "tick-crisp_1.wav",
+     "seed": 1162705466,
+     "pitch": null,
+     "onset_s": 0.0012,
+     "peak_s": 0.0045,
+     "end_s": 0.036,
+     "dur_s": 0.0373,
+     "peak_db": -1.0,
+     "lufs_m_max": -18.1,
+     "sha1": "19dadc31b567d2135bfbc1bfff5879b054e101e9",
+     "key": "25ac69dcef9b84227b55b28dd6f26e2ae1902d85",
+     "checks": []
+    },
+    {
+     "file": "tick-crisp_2.wav",
+     "seed": 1162705467,
+     "pitch": null,
+     "onset_s": 0.0012,
+     "peak_s": 0.0045,
+     "end_s": 0.035,
+     "dur_s": 0.0373,
+     "peak_db": -1.0,
+     "lufs_m_max": -19.44,
+     "sha1": "fe7224033acea472b187861bae8fddf892d3cf44",
+     "key": "b164cc0ac1c850d5467750035df8df7e73c25d15",
+     "checks": []
+    },
+    {
+     "file": "tick-crisp_3.wav",
+     "seed": 1162705468,
+     "pitch": null,
+     "onset_s": 0.0012,
+     "peak_s": 0.0045,
+     "end_s": 0.036,
+     "dur_s": 0.0373,
+     "peak_db": -1.0,
+     "lufs_m_max": -19.46,
+     "sha1": "d05a58b17f3f1ef6f908c3c2cd2272ecc6306871",
+     "key": "9d88dd06f7a675a1fb027d51dbac096875d5f407",
+     "checks": []
+    }
+   ]
+  },
+  "hit": {
+   "sound": "pro_impact/short",
+   "align": "onset",
+   "level_db": -6.0,
+   "max_s": null,
+   "takes": [
+    {
+     "file": "hit_1.wav",
+     "seed": 0,
+     "pitch": null,
+     "onset_s": 0.0,
+     "peak_s": 0.1815,
+     "end_s": 0.637,
+     "dur_s": 0.6668,
+     "peak_db": -1.0,
+     "lufs_m_max": -14.83,
+     "sha1": "1d6ef498b724f538c036904719c7ebe51fa6c271",
+     "key": "945fc588d7a021553872b15d0afbb839765a45c1",
+     "checks": []
+    },
+    {
+     "file": "hit_2.wav",
+     "seed": 1,
+     "pitch": null,
+     "onset_s": 0.0,
+     "peak_s": 0.1345,
+     "end_s": 0.638,
+     "dur_s": 0.6668,
+     "peak_db": -1.0,
+     "lufs_m_max": -15.23,
+     "sha1": "2426bd1b63b288e73849608802281b2718cf42a8",
+     "key": "80276c253ce0b0afaea3dd79740a9e8a93ce4d15",
+     "checks": []
+    },
+    {
+     "file": "hit_3.wav",
+     "seed": 2,
+     "pitch": null,
+     "onset_s": 0.0,
+     "peak_s": 0.1045,
+     "end_s": 0.638,
+     "dur_s": 0.6668,
+     "peak_db": -1.0,
+     "lufs_m_max": -13.26,
+     "sha1": "66609bbabff80b04f4ad53aa569cdef40dc9e1dc",
+     "key": "a9e97f2e709fbf38e595bfc2d1b019a1e4f1c539",
+     "checks": []
+    }
+   ]
+  },
+  "pop": {
+   "sound": "pro_pop_in/round",
+   "align": "onset",
+   "level_db": -6.0,
+   "max_s": null,
+   "takes": [
+    {
+     "file": "pop_1.wav",
+     "seed": 276866903,
+     "pitch": null,
+     "onset_s": 0.0012,
+     "peak_s": 0.0195,
+     "end_s": 0.166,
+     "dur_s": 0.1716,
+     "peak_db": -1.0,
+     "lufs_m_max": -19.08,
+     "sha1": "681d26a623691b34af281260e31cd78987b44f86",
+     "key": "a26c763882f83c615b1be636c0973329688d4316",
+     "checks": []
+    },
+    {
+     "file": "pop_2.wav",
+     "seed": 276866904,
+     "pitch": null,
+     "onset_s": 0.0012,
+     "peak_s": 0.0205,
+     "end_s": 0.166,
+     "dur_s": 0.1716,
+     "peak_db": -1.0,
+     "lufs_m_max": -16.09,
+     "sha1": "d73b2884845adaad58713a91b228765a4a2130cb",
+     "key": "afe5daa1fde329a873bcc562237d664922bca299",
+     "checks": []
+    },
+    {
+     "file": "pop_3.wav",
+     "seed": 276866905,
+     "pitch": null,
+     "onset_s": 0.0012,
+     "peak_s": 0.0195,
+     "end_s": 0.167,
+     "dur_s": 0.1716,
+     "peak_db": -1.0,
+     "lufs_m_max": -18.94,
+     "sha1": "c41e8417bed1cbff403b2dc05cb564e8f37823fc",
+     "key": "cc4cebf5f5561cfa287a74887cbcbd043e6b48e7",
+     "checks": []
+    },
+    {
+     "file": "pop_4.wav",
+     "seed": 276866906,
+     "pitch": null,
+     "onset_s": 0.0012,
+     "peak_s": 0.0175,
+     "end_s": 0.165,
+     "dur_s": 0.1716,
+     "peak_db": -1.0,
+     "lufs_m_max": -18.44,
+     "sha1": "040ec07a937816012d46fd86f92cd9694c25479a",
+     "key": "b84f8a38be4af093d03a85fd1aad3333aa21caa5",
+     "checks": []
+    }
+   ]
+  },
+  "whoosh.short": {
+   "sound": "whoosh_fast/tight",
+   "align": "peak",
+   "level_db": -6.0,
+   "max_s": null,
+   "takes": [
+    {
+     "file": "whoosh-short_1.wav",
+     "seed": 1621782255,
+     "pitch": null,
+     "onset_s": 0.0485,
+     "peak_s": 0.1615,
+     "end_s": 0.365,
+     "dur_s": 0.5364,
+     "peak_db": -1.0,
+     "lufs_m_max": -16.68,
+     "sha1": "55e9c3b3a2221fad4d84bff6edd1954f8aa7a085",
+     "key": "0bd9077982bec4b028ecaecfd0d4869a2af0c956",
+     "checks": []
+    },
+    {
+     "file": "whoosh-short_2.wav",
+     "seed": 1621782256,
+     "pitch": null,
+     "onset_s": 0.0255,
+     "peak_s": 0.1575,
+     "end_s": 0.356,
+     "dur_s": 0.5314,
+     "peak_db": -1.0,
+     "lufs_m_max": -17.47,
+     "sha1": "b9f9aafbbaee4b6d72a8048b1a622e9ae8b23dcc",
+     "key": "c8393666e75e4f7e26b466188fbf2eb86be451fb",
+     "checks": []
+    },
+    {
+     "file": "whoosh-short_3.wav",
+     "seed": 1621782257,
+     "pitch": null,
+     "onset_s": 0.054,
+     "peak_s": 0.1605,
+     "end_s": 0.363,
+     "dur_s": 0.5314,
+     "peak_db": -1.0,
+     "lufs_m_max": -17.08,
+     "sha1": "21b34cd2b7fd34bc7a77efd0e1b74838a555c51e",
+     "key": "9dfde66fac3f75f239e4b896fa81d6026b6285fb",
+     "checks": []
+    }
+   ]
+  },
+  "whoosh.long": {
+   "sound": "whoosh_big/swell",
+   "align": "peak",
+   "level_db": -10.0,
+   "max_s": null,
+   "takes": [
+    {
+     "file": "whoosh-long_1.wav",
+     "seed": 696394185,
+     "pitch": null,
+     "onset_s": 0.0592,
+     "peak_s": 0.4365,
+     "end_s": 1.141,
+     "dur_s": 1.3547,
+     "peak_db": -1.0,
+     "lufs_m_max": -14.41,
+     "sha1": "985a5fa62e250f68cdcbda0e90e7ab8de9993379",
+     "key": "ea353d2916b7aa0aa9f13d6043644d6c1a27ba2b",
+     "checks": []
+    },
+    {
+     "file": "whoosh-long_2.wav",
+     "seed": 696394186,
+     "pitch": null,
+     "onset_s": 0.02,
+     "peak_s": 0.3795,
+     "end_s": 1.235,
+     "dur_s": 1.4247,
+     "peak_db": -1.0,
+     "lufs_m_max": -12.15,
+     "sha1": "c10778e079f30d323e5efec4269920dab22e7001",
+     "key": "bd908a7034f360e008ec36f4eb0b1292727b759f",
+     "checks": []
+    }
+   ]
+  },
+  "click": {
+   "sound": "fit/click/floss_lid",
+   "align": "onset",
+   "level_db": -4.5,
+   "max_s": null,
+   "takes": [
+    {
+     "file": "click_1.wav",
+     "seed": 0,
+     "pitch": null,
+     "onset_s": 0.004,
+     "peak_s": 0.0075,
+     "end_s": 0.069,
+     "dur_s": 0.132,
+     "peak_db": -1.0,
+     "lufs_m_max": -25.2,
+     "sha1": "1bf4732606ab84f808733c3b912e46e731ff3903",
+     "key": "7d488f1a881db08621fd4be208fb9d2e3a6a31cf",
+     "checks": []
+    },
+    {
+     "file": "click_2.wav",
+     "seed": 1,
+     "pitch": null,
+     "onset_s": 0.0042,
+     "peak_s": 0.0075,
+     "end_s": 0.07,
+     "dur_s": 0.132,
+     "peak_db": -1.0,
+     "lufs_m_max": -26.94,
+     "sha1": "2ba8fbae7288aa6b96f94bdda420482d9d7c6fad",
+     "key": "c00577db1cbb679c32ec429eb2da90848c2be619",
+     "checks": []
+    }
+   ]
+  },
+  "click.confirm": {
+   "sound": "pro_notify/ding_2045",
+   "align": "onset",
+   "level_db": -9.0,
+   "max_s": null,
+   "takes": [
+    {
+     "file": "click-confirm_1.wav",
+     "seed": 0,
+     "pitch": null,
+     "onset_s": 0.0,
+     "peak_s": 0.0055,
+     "end_s": 0.34,
+     "dur_s": 0.36,
+     "peak_db": -1.0,
+     "lufs_m_max": -11.12,
+     "sha1": "78b213263d1c319d0d88d2be1f9bd7d8fe87629d",
+     "key": "ecdb509f7c703408130f6e60f0c6b61b515f89c6",
+     "checks": []
+    }
+   ]
+  }
+ }
+}
